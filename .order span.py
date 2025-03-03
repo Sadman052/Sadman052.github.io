@@ -1,0 +1,14 @@
+.order span.success svg ( 
+width: 12px; 
+height: 10px; 
+display: inline-block; 
+vertical-align: top; 
+fill: none; 
+margin: 7px 0 0 4px; 
+stroke: var(--green); 
+stroke-width: 2; 
+stroke-linecap: round; 
+stroke-linejoin: round; 
+stroke-dasharray: 16px; 
+stroke-dashoffset: var(--offset); 
+transition: stroke-dashoffset 0.3s ease; 
